@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alvaro Suica</h1>
 
+<h3 align="center">
+Systems Engineering Student | Networks & Infrastructure | Programming | Data & BI
+</h3>
 <!--
 **SSAlvaro/SSAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
