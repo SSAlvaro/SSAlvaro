@@ -18,7 +18,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 **Networks & Infrastructure:**
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -27,30 +27,45 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Programming & Languages:**
+**Programming & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+
+**Web Technologies:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Data & Analytics:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Systems Design & Modeling:**
-![Modelio](https://img.shields.io/badge/Modelio%20UML-231F20?style=flat-square&logo=uml&logoColor=white)
+**Cloud, DevOps & Version Control:**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**IDEs & Development Tools:**
+**Systems Design, UI/UX & Visuals:**
+![Modelio](https://img.shields.io/badge/Modelio%20UML-231F20?style=flat-square&logo=uml&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+**IDEs, API Testing & Tools:**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-525252?style=flat-square&logo=thunderbird&logoColor=white)
 
 ---
 
 ### 📜 Certifications & Languages
 
-- **Cisco Networking Academy:** C Essentials 2, Linux Essentials, IT Essentials, Python Essentials 2[cite: 1]
-- **ICPNA:** Advanced English Program (C1/Fluent)[cite: 1]
+- **Cisco Networking Academy:** C Essentials 2, Linux Essentials, IT Essentials, Python Essentials 2
+- **ICPNA:** Advanced English Program (C1/Fluent)
 
 ---
 ## 📬 Contact & Connect
