@@ -4,18 +4,9 @@
 Systems Engineering Student | Networks & Infrastructure | Programming | Data & BI
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alvaro-luis-suica-salcedo-0375132a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:luisalvaro684@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 | 🎯 Area | 🔎 What I'm interested in |
 |:---|:---|
@@ -27,7 +18,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 **Networks & Infrastructure:**
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -56,6 +47,19 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ---
 
-### 🎯 Career Goal
+### 📜 Certifications & Languages
 
-My goal is to develop professionally in **Networks & IT Infrastructure**, while combining **programming, data and automation** to build practical and efficient technology solutions.
+- **Cisco Networking Academy:** C Essentials 2, Linux Essentials, IT Essentials, Python Essentials 2[cite: 1]
+- **ICPNA:** Advanced English Program (C1/Fluent)[cite: 1]
+
+---
+## 📬 Contact & Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvaro-luis-suica-salcedo-0375132a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:luisalvaro684@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
