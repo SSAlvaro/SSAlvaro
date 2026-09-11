@@ -15,10 +15,10 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 | 📊 **Data & BI** | Data analysis, database management, visualization, and decision support | 
 | 🤖 **Automation & AI** | Exploring network automation, data analytics, and AI applied to IT infrastructure |
 
-
 ---
 
-## 🛠️ Technologies & Tools
+
+### 🛠️ Technologies & Tools
 
 **Networks & Infrastructure:**
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -68,7 +68,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 - **ICPNA:** Advanced English Program (C1/Fluent)
 
 ---
-## 📬 Contact & Connect
+### 📬 Contact & Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-luis-suica-salcedo-0375132a7/">
