@@ -62,6 +62,20 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ---
 
+## 🚀 Projects & Collaborations
+
+<p align="left">
+  <a href="https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure">
+    <img src="https://gh-readme-cards.vercel.app/api/pin/?username=Kevin-Andr3&repo=windows-server-enterprise-infrastructure&theme=nord" alt="Windows Server Infrastructure Repo" />
+  </a>
+</p>
+
+* **[Windows Server Enterprise Infrastructure](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)**  
+  *Contributor / Infrastructure Analyst*  
+  Diseño e implementación de infraestructura de red empresarial utilizando **Windows Server**, abarcando configuración de Active Directory, servicios DNS, segmentación y políticas de seguridad para entornos corporativos.
+
+---
+
 ### 📜 Certifications & Languages
 
 - **Cisco Networking Academy:** C Essentials 2, Linux Essentials, IT Essentials, Python Essentials 2
