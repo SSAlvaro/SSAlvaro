@@ -64,7 +64,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 ## 🚀 Projects & Collaborations
 
 * ### **Windows Server Enterprise Infrastructure**
-  ![Contributor](https://img.shields.io/badge/Role-Contributor-blue?style=flat-square)
+  ![Co-creator](https://img.shields.io/badge/Role-Co--creator-blueviolet?style=flat-square)
   ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
   [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)
 
