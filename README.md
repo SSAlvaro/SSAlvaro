@@ -64,15 +64,12 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ## 🚀 Projects & Collaborations
 
-<p align="left">
-  <a href="https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure">
-    <img src="https://gh-readme-cards.vercel.app/api/pin/?username=Kevin-Andr3&repo=windows-server-enterprise-infrastructure&theme=nord" alt="Windows Server Infrastructure Repo" />
-  </a>
-</p>
+* ### **Windows Server Enterprise Infrastructure**
+  ![Contributor](https://img.shields.io/badge/Role-Contributor-blue?style=flat-square)
+  ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+  [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)
 
-* **[Windows Server Enterprise Infrastructure](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)**  
-  *Contributor / Infrastructure Analyst*  
-  Diseño e implementación de infraestructura de red empresarial utilizando **Windows Server**, abarcando configuración de Active Directory, servicios DNS, segmentación y políticas de seguridad para entornos corporativos.
+  Diseño e implementación de infraestructura de red empresarial utilizando **Windows Server**, abarcando configuración de Active Directory, servicios DNS, segmentación y políticas de seguridad para entornos corporativos[cite: 1].
 
 ---
 
