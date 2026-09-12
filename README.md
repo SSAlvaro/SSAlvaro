@@ -61,7 +61,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 ---
 
-## 🚀 Projects & Collaborations
+### 🚀 Projects & Collaborations
 
 * ### **Windows Server Enterprise Infrastructure**
   ![Co-creator](https://img.shields.io/badge/Role-Co--creator-blueviolet?style=flat-square)
