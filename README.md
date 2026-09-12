@@ -30,7 +30,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 **Programming & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
 **Web Technologies:**
@@ -40,7 +40,6 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
 
 **Data & Analytics:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -70,6 +69,16 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
   [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)
 
   Design and implementation of an enterprise network infrastructure using **Windows Server**, covering Active Directory configuration, DNS services, network segmentation, and security policies for corporate environments.
+
+* ### **Inti Wasi S.A.C. - Warehouse & Inventory Management System**
+  ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+  ![Contributor](https://img.shields.io/badge/Role-Contributor-blue?style=flat-square)
+  ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/misaelandresvergaraoficial/Inti-Wasi)
+
+  Collaborating on a web application for inventory, purchasing, and warehouse management for Distribuidora Inti Wasi S.A.C., implementing REST APIs with Java 25, Spring Boot, JWT authentication, and MySQL database setup.
 
 ---
 
