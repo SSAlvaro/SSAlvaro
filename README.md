@@ -69,7 +69,7 @@ Systems Engineering Student | Networks & Infrastructure | Programming | Data & B
   ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
   [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kevin-Andr3/windows-server-enterprise-infrastructure)
 
-  Diseño e implementación de infraestructura de red empresarial utilizando **Windows Server**, abarcando configuración de Active Directory, servicios DNS, segmentación y políticas de seguridad para entornos corporativos[cite: 1].
+  Design and implementation of an enterprise network infrastructure using **Windows Server**, covering Active Directory configuration, DNS services, network segmentation, and security policies for corporate environments.
 
 ---
 
